@@ -20,3 +20,4 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 ```
 O(nlogn)
+[www.patika.dev](www.patika.dev)
