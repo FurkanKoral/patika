@@ -16,9 +16,9 @@ n.(n+1)/2 olur.
 Bu ifadenin big-o gösterimi O(n²) olur
 
 ```
-3-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız
+3-Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, 
 
- sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
+Best case: Aradığımız sayının dizinin en başında olması.
 ```
 
 ```
