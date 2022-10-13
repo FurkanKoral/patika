@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\bin\Debug\net6.0\degiskenler.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\bin\Debug\net6.0\degiskenler.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\degiskenler.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\refint\degiskenler.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll
