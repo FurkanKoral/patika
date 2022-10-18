@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\bin\Debug\net6.0\array_method.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\bin\Debug\net6.0\array_method.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\bin\Debug\net6.0\array_method.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\bin\Debug\net6.0\array_method.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\bin\Debug\net6.0\array_method.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\array_method.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\array_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\array_method.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\array_method.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\array_method.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\array_method.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\refint\array_method.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\array_method.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\array_method.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\array_method\obj\Debug\net6.0\ref\array_method.dll
