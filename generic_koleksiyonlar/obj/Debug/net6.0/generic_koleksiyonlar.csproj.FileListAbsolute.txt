@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\bin\Debug\net6.0\generic_koleksiyonlar.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\bin\Debug\net6.0\generic_koleksiyonlar.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\bin\Debug\net6.0\generic_koleksiyonlar.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\bin\Debug\net6.0\generic_koleksiyonlar.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\bin\Debug\net6.0\generic_koleksiyonlar.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\generic_koleksiyonlar.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\generic_koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\generic_koleksiyonlar.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\generic_koleksiyonlar.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\generic_koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\generic_koleksiyonlar.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\refint\generic_koleksiyonlar.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\generic_koleksiyonlar.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\generic_koleksiyonlar.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\generic_koleksiyonlar\obj\Debug\net6.0\ref\generic_koleksiyonlar.dll
