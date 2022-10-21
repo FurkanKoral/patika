@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\bin\Debug\net6.0\array_list.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\bin\Debug\net6.0\array_list.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\bin\Debug\net6.0\array_list.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\bin\Debug\net6.0\array_list.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\bin\Debug\net6.0\array_list.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\array_list.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\array_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\array_list.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\array_list.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\array_list.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\array_list.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\refint\array_list.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\array_list.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\array_list.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\array_list\obj\Debug\net6.0\ref\array_list.dll
