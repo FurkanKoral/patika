@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\bin\Debug\net6.0\hazir_metotlar_datetime_math.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\bin\Debug\net6.0\hazir_metotlar_datetime_math.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\bin\Debug\net6.0\hazir_metotlar_datetime_math.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\bin\Debug\net6.0\hazir_metotlar_datetime_math.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\bin\Debug\net6.0\hazir_metotlar_datetime_math.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\hazir_metotlar_datetime_math.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\hazir_metotlar_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\hazir_metotlar_datetime_math.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\hazir_metotlar_datetime_math.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\hazir_metotlar_datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\hazir_metotlar_datetime_math.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\refint\hazir_metotlar_datetime_math.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\hazir_metotlar_datetime_math.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\hazir_metotlar_datetime_math.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\hazir_metotlar_datetime_math\obj\Debug\net6.0\ref\hazir_metotlar_datetime_math.dll
