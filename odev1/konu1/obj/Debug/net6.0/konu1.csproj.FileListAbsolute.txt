@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\bin\Debug\net6.0\konu1.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\bin\Debug\net6.0\konu1.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\bin\Debug\net6.0\konu1.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\bin\Debug\net6.0\konu1.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\bin\Debug\net6.0\konu1.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\konu1.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\konu1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\konu1.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\konu1.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\konu1.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\konu1.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\refint\konu1.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\konu1.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\konu1.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\odev1\konu1\obj\Debug\net6.0\ref\konu1.dll
