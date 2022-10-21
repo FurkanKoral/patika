@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\bin\Debug\net6.0\recursif_extension_metotlar.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\bin\Debug\net6.0\recursif_extension_metotlar.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\bin\Debug\net6.0\recursif_extension_metotlar.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\bin\Debug\net6.0\recursif_extension_metotlar.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\bin\Debug\net6.0\recursif_extension_metotlar.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\recursif_extension_metotlar.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\recursif_extension_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\recursif_extension_metotlar.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\recursif_extension_metotlar.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\recursif_extension_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\recursif_extension_metotlar.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\refint\recursif_extension_metotlar.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\recursif_extension_metotlar.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\recursif_extension_metotlar.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\recursif_extension_metotlar\obj\Debug\net6.0\ref\recursif_extension_metotlar.dll

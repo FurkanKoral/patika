@@ -1,0 +1,3 @@
+# patika
+patika projeleri
+[https://www.patika.dev/tr](https://www.patika.dev/tr)
