@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\bin\Debug\net6.0\static_sinif_ve_uyeleri.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\bin\Debug\net6.0\static_sinif_ve_uyeleri.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\bin\Debug\net6.0\static_sinif_ve_uyeleri.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\bin\Debug\net6.0\static_sinif_ve_uyeleri.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\bin\Debug\net6.0\static_sinif_ve_uyeleri.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\static_sinif_ve_uyeleri.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\static_sinif_ve_uyeleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\static_sinif_ve_uyeleri.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\static_sinif_ve_uyeleri.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\static_sinif_ve_uyeleri.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\static_sinif_ve_uyeleri.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\refint\static_sinif_ve_uyeleri.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\static_sinif_ve_uyeleri.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\static_sinif_ve_uyeleri.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\static_sinif_ve_uyeleri\obj\Debug\net6.0\ref\static_sinif_ve_uyeleri.dll
