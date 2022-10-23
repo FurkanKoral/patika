@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\bin\Debug\net6.0\struct_yapilari.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\bin\Debug\net6.0\struct_yapilari.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\bin\Debug\net6.0\struct_yapilari.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\bin\Debug\net6.0\struct_yapilari.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\bin\Debug\net6.0\struct_yapilari.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\struct_yapilari.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\struct_yapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\struct_yapilari.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\struct_yapilari.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\struct_yapilari.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\struct_yapilari.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\refint\struct_yapilari.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\struct_yapilari.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\struct_yapilari.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\patika\struct_yapilari\obj\Debug\net6.0\ref\struct_yapilari.dll
