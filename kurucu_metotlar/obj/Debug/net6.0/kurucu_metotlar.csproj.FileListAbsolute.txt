@@ -1,0 +1,15 @@
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.exe
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.deps.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.runtimeconfig.json
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\bin\Debug\net6.0\kurucu_metotlar.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\refint\kurucu_metotlar.dll
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.pdb
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\kurucu_metotlar.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\DERS\patika.dev\C# 101 eğitimi\kurucu_metotlar\obj\Debug\net6.0\ref\kurucu_metotlar.dll
